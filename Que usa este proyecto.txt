@@ -1,0 +1,8 @@
+Este proyecto usa 
+MUI:
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
+y un badge
+
+routes de React:
+npm install react-router-dom
